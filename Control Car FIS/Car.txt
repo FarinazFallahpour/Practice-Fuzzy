@@ -1,0 +1,2 @@
+Design an FIS (Mamdani or Sugeno) to control the movement of car in a trajectory. - Trajectory of car is fixed.
+- Car moves counterclockwise in the trajectory.
